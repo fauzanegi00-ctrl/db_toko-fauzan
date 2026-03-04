@@ -17,13 +17,13 @@ Kalau mau menampilkan nama siswa beserta nama kelasnya → harus pakai JOIN.
 
 INNER JOIN menampilkan hanya data yang memiliki hubungan di kedua tabel.
 
-👉 Jika tidak ada pasangan data, maka tidak ditampilkan.
+Jika tidak ada pasangan data, maka tidak ditampilkan.
 
 2. LEFT JOIN (LEFT OUTER JOIN)
 
 LEFT JOIN menampilkan semua data dari tabel kiri, walaupun tidak ada pasangan di tabel kanan.
 
-👉 Jika tidak ada pasangan, maka akan muncul NULL.
+Jika tidak ada pasangan, maka akan muncul NULL.
 
 3. RIGHT JOIN (RIGHT OUTER JOIN)
 
